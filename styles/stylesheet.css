@@ -109,3 +109,30 @@ background: #FFF8F3;
     text-align: center;
 
 }
+/* What I Do */
+.section-what-i-do{
+    text-align: center;
+    padding: 30px 150px;
+}
+/* Skills */
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-description{
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+}
+.skill{
+    padding: 30px;
+
+    border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-title{
+    color: #181818;
+font-size: 20px;
+font-weight: 700;
+}
